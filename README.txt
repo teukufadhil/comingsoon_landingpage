@@ -1,3 +1,5 @@
+https://teukufadhil.github.io/comingsoon_landingpage/
+
 Directory Structure
 -------------------
 css\              - Stylesheets CSS files for the template.
